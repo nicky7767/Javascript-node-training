@@ -1,8 +1,6 @@
 function calculateSum(arr) {
     let sum = 0;
-    for (let i = 0; i < arr.length; i++) {
-        sum += arr[i];
-    }
+    arr.forEach(element => sum += element)
     return sum;
 }
 
