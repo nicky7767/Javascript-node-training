@@ -1,0 +1,63 @@
+[
+    {
+      "commitHash": "a1b2c3d4e5",
+      "author": "John Doe",
+      "date": "2024-02-03T12:30:00.000Z",
+      "message": "Initial commit"
+    },
+    {
+      "commitHash": "b5a4c3d2e1",
+      "author": "Jane Smith",
+      "date": "invalid-date",
+      "message": "Added feature X"
+    },
+    {
+      "commitHash": "1a2b3c4d5e",
+      "author": "Alice Johnson",
+      "date": "2024-02-08T09:20:00.000Z",
+      "message": "Fixed bug in feature Y"
+    },
+    {
+      "commitHash": "5e4d3c2b1a",
+      "author": "Bob Anderson",
+      "date": "2024-02-10T18:00:00.000Z",
+      "message": "Refactored code"
+    },
+    {
+      "commitHash": "9a8b7c6d5e",
+      "author": "Charlie Brown",
+      "date": "2024-02-12T14:30:00.000Z",
+      "message": "Implemented feature Z"
+    },
+    {
+      "commitHash": "c5d4e3b2a1",
+      "author": "Eva Green",
+      "date": "2024-02-15T11:15:00.000Z",
+      "message": "Fixed critical bug"
+    },
+    {
+      "commitHash": "3b4c5d6e7a",
+      "author": "Frank White",
+      "date": "2024-02-18T08:45:00.000Z",
+      "message": "Added documentation"
+    },
+    {
+      "commitHash": "7e6d5c4b3a",
+      "author": "Grace Miller",
+      "date": "2024-02-21T17:30:00.000Z",
+      "message": "Optimized performance"
+    },
+    {
+      "commitHash": "2a1b3c5d4e",
+      "author": "Harry Taylor",
+      "date": "2024-02-24T13:00:00.000Z",
+      "message": "Fixed security vulnerability"
+    },
+    {
+      "commitHash": "6d5e4c3b2a",
+      "author": "Ivy Johnson",
+      "date": "2024-02-27T10:20:00.000Z",
+      "message": "Added new feature"
+    }
+]
+  
