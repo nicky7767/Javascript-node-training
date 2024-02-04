@@ -35,4 +35,3 @@ const rawData = readFileSync("../Day-4/app/part-1/commitData.json");
 const commitHistory = JSON.parse(rawData);
 const latestCommit = findLatestCommit(commitHistory);
 console.log(latestCommit);
-

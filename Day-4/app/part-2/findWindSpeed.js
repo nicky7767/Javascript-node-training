@@ -31,9 +31,7 @@ export async function getWindSpeed(cityName, apiKey) {
       }
     })
     .catch((error) => {
-      throw new Error(
-        error.message
-      );
+      throw new Error(error.message);
     });
 }
 
